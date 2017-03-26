@@ -1,0 +1,5 @@
+//Add League
+insert into scheduler_mysql.League(League_Name, Game_Length, Field_TypeID) values ('Austin Adult Wednesday League', '2:00:00', 2);
+
+//Add Field
+insert into scheduler_mysql.FieldType(Descriptive_Name) values ('Adult Field');
